@@ -1,0 +1,18 @@
+.timeRest{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+    padding: 0 20px;
+    gap: 10px;
+    /* border: 1px solid red; */
+}
+
+.timeRest p:first-child{
+    text-transform: capitalize;
+    /* max-width: 50%; */
+    width: fit-content;
+}
+.timeRest p{
+    text-align: left;
+}

@@ -1,0 +1,23 @@
+.EventsSection{
+    margin-top: 60px;
+    width: 100%;
+    min-height: 100vh;
+}
+.mainEvents{
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 90%;
+    margin: 0 auto;
+    gap: 10px;
+}
+.EventsSection h1{
+    font-family: "graduate";
+    color: wheat;
+    text-transform: uppercase;
+}
+
+@media only screen and (min-width:650px) {
+    .mainEvents{
+        grid-template-columns: 1fr 1fr;
+    }
+}

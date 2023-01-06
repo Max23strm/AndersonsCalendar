@@ -1,0 +1,24 @@
+.EventItem{
+    width: 100%;
+    background-color: #1c202b;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    color: white;
+}
+
+.teamSect{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #303749;
+    padding: 5px 10px;
+}
+
+.EventItem a{
+    width: 100%;
+    padding: 5px;
+    text-decoration: none;
+    color: whitesmoke;
+}

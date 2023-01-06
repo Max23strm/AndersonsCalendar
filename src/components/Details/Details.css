@@ -10,13 +10,22 @@
     margin-top: 40px;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: stretch;
     padding: 10px;
     background-color: #1c202b;
     border-radius: 5px;
 }
 .detailsContainer .detailsTitulo .equipo{
     text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.detailsContainer .detailsTitulo .equipo img{
+    width: 70px;
 }
 
 .detailsContainer .fecha{

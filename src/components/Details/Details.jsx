@@ -17,9 +17,15 @@ const Details = ({partidos}) => {
     data && <section className='detailsContainer'>
         <Volver/>
         <div className='detailsTitulo'>
-            <h2 className='equipo'>{data.equipo1}</h2>
+                <h2 className='equipo'>
+                    <img src={require(`../../assets/img/logos/${data.equipo1}.webp`)} alt={`${data.equipo2} logo`} />
+                    {data.equipo1}
+                </h2>
             <h2>vs</h2>
-            <h2 className='equipo'>{data.equipo2}</h2>
+                <h2 className='equipo'>
+                    <img src={require(`../../assets/img/logos/${data.equipo2}.webp`)} alt={`${data.equipo2} logo`} />
+                    {data.equipo2}
+                </h2>
 
         </div>
         <p className='fecha'>{data.fecha}</p>

@@ -3,68 +3,39 @@
     [
         {
             "id":1,
-            "equipo1":"equipo1",
-            "equipo2":"equipo2",
-            "fecha":"01/01/2023",
+            "equipo1":"Raiders",
+            "equipo2":"Chiefs",
+            "fecha":"07/01/2023",
             "horario":
             [
                 {
-                    "resto":"harrys",
-                    "horas":[
-                        ["masaryk","02:00 pm"],
-                        ["cancun","02:00 pm"],
-                        ["tulum","02:00 pm"],
-                        ["playa del carmen","02:00 pm"],
-                        ["coapa","02:00 pm"],
-                        ["toreo","02:00 pm"],
-                        ["merida","02:00 pm"],
-                        ["vallarta","02:00 pm"],
-                        ["tulum","02:00 pm"]
-
-                    ]
-                },
-                {
                     "resto":"la vicenta",
                     "horas":[
-                        ["masaryk","02:00 pm"],
-                        ["cancun","02:00 pm"],
-                        ["tulum","02:00 pm"],
-                        ["playa del carmen","02:00 pm"],
-                        ["coapa","02:00 pm"],
-                        ["toreo","02:00 pm"],
-                        ["merida","02:00 pm"],
-                        ["vallarta","02:00 pm"],
-                        ["tulum","02:00 pm"]
+                        ["cancun","16:30"],
+                        ["tezontle","15:30"],
+                        ["toreo","15:30"],
+                        ["vallejo","15:30"],
+                        ["acapulco","15:30"]
 
                     ]
                 },
                 {
                     "resto":"cao",
                     "horas":[
-                        ["masaryk","02:00 pm"],
-                        ["cancun","02:00 pm"],
-                        ["tulum","02:00 pm"],
-                        ["playa del carmen","02:00 pm"],
-                        ["coapa","02:00 pm"],
-                        ["toreo","02:00 pm"],
-                        ["merida","02:00 pm"],
-                        ["vallarta","02:00 pm"],
-                        ["tulum","02:00 pm"]
-
+                        ["cancun","16:30"]
                     ]
                 },
                 {
-                    "resto":"Porfirios",
+                    "resto":"Freds",
                     "horas":[
-                        ["masaryk","02:00 pm"],
-                        ["cancun","02:00 pm"],
-                        ["tulum","02:00 pm"],
-                        ["playa del carmen","02:00 pm"],
-                        ["coapa","02:00 pm"],
-                        ["toreo","02:00 pm"],
-                        ["merida","02:00 pm"],
-                        ["vallarta","02:00 pm"],
-                        ["tulum","02:00 pm"]
+                        ["cancun","16:30"]
+                    ]
+                },
+                {
+                    "resto":"Sr Frogs",
+                    "horas":[
+                        ["cancun","16:30"],
+                        ["playa del carmen","16:30"]
 
                     ]
                 }
@@ -72,68 +43,94 @@
         },
         {
             "id":2,
-            "equipo1":"equipo1",
-            "equipo2":"equipo2",
-            "fecha":"01/01/2023",
+            "equipo1":"Jaguars",
+            "equipo2":"Titans",
+            "fecha":"07/01/2023",
             "horario":
             [
                 {
-                    "resto":"harrys",
-                    "horas":[
-                        ["masaryk","02:00 pm"],
-                        ["cancun","02:00 pm"],
-                        ["tulum","02:00 pm"],
-                        ["playa del carmen","02:00 pm"],
-                        ["coapa","02:00 pm"],
-                        ["toreo","02:00 pm"],
-                        ["merida","02:00 pm"],
-                        ["vallarta","02:00 pm"],
-                        ["tulum","02:00 pm"]
-
-                    ]
-                },
-                {
                     "resto":"la vicenta",
                     "horas":[
-                        ["masaryk","02:00 pm"],
-                        ["cancun","02:00 pm"],
-                        ["tulum","02:00 pm"],
-                        ["playa del carmen","02:00 pm"],
-                        ["coapa","02:00 pm"],
-                        ["toreo","02:00 pm"],
-                        ["merida","02:00 pm"],
-                        ["vallarta","02:00 pm"],
-                        ["tulum","02:00 pm"]
-
+                        ["cancun","20:15"],
+                        ["tezontle","19:15"],
+                        ["toreo","19:15"],
+                        ["vallejo","19:15"],
+                        ["acapulco","19:15"]
                     ]
                 },
                 {
                     "resto":"cao",
                     "horas":[
-                        ["masaryk","02:00 pm"],
-                        ["cancun","02:00 pm"],
-                        ["tulum","02:00 pm"],
-                        ["playa del carmen","02:00 pm"],
-                        ["coapa","02:00 pm"],
-                        ["toreo","02:00 pm"],
-                        ["merida","02:00 pm"],
-                        ["vallarta","02:00 pm"],
-                        ["tulum","02:00 pm"]
+                        ["cancun","20:15"]
+                    ]
+                },
+                {
+                    "resto":"Freds",
+                    "horas":[
+                        ["cancun","20:15"]
+                    ]
+                },
+                {
+                    "resto":"Sr Frogs",
+                    "horas":[
+                        ["cancun","20:15"],
+                        ["playa del carmen","20:15"]
+
+                    ]
+                }
+            ]
+        },
+        {
+            "id":3,
+            "equipo1":"Steelers",
+            "equipo2":"Browns",
+            "fecha":"08/01/2023",
+            "horario":
+            [
+                
+                {
+                    "resto":"la vicenta",
+                    "horas":[
+                        ["cancun","13:00"],
+                        ["tezontle","12:00"],
+                        ["toreo","12:00"],
+                        ["vallejo","12:00"],
+                        ["acapulco","12:00"]
 
                     ]
                 },
                 {
-                    "resto":"Porfirios",
+                    "resto":"porfirios",
                     "horas":[
-                        ["masaryk","02:00 pm"],
-                        ["cancun","02:00 pm"],
-                        ["tulum","02:00 pm"],
-                        ["playa del carmen","02:00 pm"],
-                        ["coapa","02:00 pm"],
-                        ["toreo","02:00 pm"],
-                        ["merida","02:00 pm"],
-                        ["vallarta","02:00 pm"],
-                        ["tulum","02:00 pm"]
+                        ["cancun","13:00"],
+                        ["playa del carmen","13:00"],
+                        ["tulum","13:00"],
+                        ["masaryk","12:00"],
+                        ["coapa","12:00"],
+                        ["toreo","12:00"],
+                        ["merida","12:00"],
+                        ["vallarta","12:00"]
+                    ]
+                },
+                {
+                    "resto":"cao",
+                    "horas":[
+                        ["cancun","13:00"]
+
+                    ]
+                },
+                {
+                    "resto":"freds",
+                    "horas":[
+                        ["cancun","13:00"]
+
+                    ]
+                },
+                {
+                    "resto":"Sr Frogs",
+                    "horas":[
+                        ["cancun","13:00"],
+                        ["playa del carmen","13:00"]
 
                     ]
                 }
@@ -141,137 +138,359 @@
         },
         {
             "id":4,
-            "equipo1":"equipo1",
-            "equipo2":"equipo2",
-            "fecha":"01/01/2023",
+            "equipo1":"Bengals",
+            "equipo2":"Ravens",
+            "fecha":"08/01/2023",
             "horario":
             [
                 {
-                    "resto":"harrys",
+                    "resto":"la vicenta",
                     "horas":[
-                        ["masaryk","02:00 pm"],
-                        ["cancun","02:00 pm"],
-                        ["tulum","02:00 pm"],
-                        ["playa del carmen","02:00 pm"],
-                        ["coapa","02:00 pm"],
-                        ["toreo","02:00 pm"],
-                        ["merida","02:00 pm"],
-                        ["vallarta","02:00 pm"],
-                        ["tulum","02:00 pm"]
+                        ["cancun","13:00"],
+                        ["tezontle","12:00"],
+                        ["toreo","12:00"],
+                        ["vallejo","12:00"],
+                        ["acapulco","12:00"]
 
                     ]
                 },
                 {
+                    "resto":"porfirios",
+                    "horas":[
+                        ["cancun","13:00"],
+                        ["playa del carmen","13:00"],
+                        ["tulum","13:00"],
+                        ["masaryk","12:00"],
+                        ["coapa","12:00"],
+                        ["toreo","12:00"],
+                        ["merida","12:00"],
+                        ["vallarta","12:00"]
+                    ]
+                },
+                {
+                    "resto":"cao",
+                    "horas":[
+                        ["cancun","13:00"]
+
+                    ]
+                },
+                {
+                    "resto":"Sr Frogs",
+                    "horas":[
+                        ["cancun","13:00"],
+                        ["playa del carmen","13:00"]
+                    ]
+                }
+            ]
+        },{
+            "id":4,
+            "equipo1":"Bears",
+            "equipo2":"Vikings",
+            "fecha":"08/01/2023",
+            "horario":
+            [
+                {
                     "resto":"la vicenta",
                     "horas":[
-                        ["masaryk","02:00 pm"],
-                        ["cancun","02:00 pm"],
-                        ["tulum","02:00 pm"],
-                        ["playa del carmen","02:00 pm"],
-                        ["coapa","02:00 pm"],
-                        ["toreo","02:00 pm"],
-                        ["merida","02:00 pm"],
-                        ["vallarta","02:00 pm"],
-                        ["tulum","02:00 pm"]
+                        ["cancun","13:00"],
+                        ["tezontle","12:00"],
+                        ["toreo","12:00"],
+                        ["vallejo","12:00"],
+                        ["acapulco","12:00"]
 
                     ]
                 },
                 {
                     "resto":"cao",
                     "horas":[
-                        ["masaryk","02:00 pm"],
-                        ["cancun","02:00 pm"],
-                        ["tulum","02:00 pm"],
-                        ["playa del carmen","02:00 pm"],
-                        ["coapa","02:00 pm"],
-                        ["toreo","02:00 pm"],
-                        ["merida","02:00 pm"],
-                        ["vallarta","02:00 pm"],
-                        ["tulum","02:00 pm"]
-
-                    ]
-                },
-                {
-                    "resto":"Porfirios",
-                    "horas":[
-                        ["masaryk","02:00 pm"],
-                        ["cancun","02:00 pm"],
-                        ["tulum","02:00 pm"],
-                        ["playa del carmen","02:00 pm"],
-                        ["coapa","02:00 pm"],
-                        ["toreo","02:00 pm"],
-                        ["merida","02:00 pm"],
-                        ["vallarta","02:00 pm"],
-                        ["tulum","02:00 pm"]
+                        ["cancun","13:00"]
 
                     ]
                 }
             ]
-        },
-        {
+        },{
             "id":5,
-            "equipo1":"equipo1",
-            "equipo2":"equipo2",
-            "fecha":"01/01/2023",
+            "equipo1":"Bills",
+            "equipo2":"Patriots",
+            "fecha":"08/01/2023",
             "horario":
             [
                 {
-                    "resto":"harrys",
-                    "horas":[
-                        ["masaryk","02:00 pm"],
-                        ["cancun","02:00 pm"],
-                        ["tulum","02:00 pm"],
-                        ["playa del carmen","02:00 pm"],
-                        ["coapa","02:00 pm"],
-                        ["toreo","02:00 pm"],
-                        ["merida","02:00 pm"],
-                        ["vallarta","02:00 pm"],
-                        ["tulum","02:00 pm"]
-
-                    ]
-                },
-                {
                     "resto":"la vicenta",
                     "horas":[
-                        ["masaryk","02:00 pm"],
-                        ["cancun","02:00 pm"],
-                        ["tulum","02:00 pm"],
-                        ["playa del carmen","02:00 pm"],
-                        ["coapa","02:00 pm"],
-                        ["toreo","02:00 pm"],
-                        ["merida","02:00 pm"],
-                        ["vallarta","02:00 pm"],
-                        ["tulum","02:00 pm"]
+                        ["cancun","13:00"],
+                        ["tezontle","12:00"],
+                        ["toreo","12:00"],
+                        ["vallejo","12:00"],
+                        ["acapulco","12:00"]
 
                     ]
                 },
                 {
                     "resto":"cao",
                     "horas":[
-                        ["masaryk","02:00 pm"],
-                        ["cancun","02:00 pm"],
-                        ["tulum","02:00 pm"],
-                        ["playa del carmen","02:00 pm"],
-                        ["coapa","02:00 pm"],
-                        ["toreo","02:00 pm"],
-                        ["merida","02:00 pm"],
-                        ["vallarta","02:00 pm"],
-                        ["tulum","02:00 pm"]
+                        ["cancun","13:00"]
+
+                    ]
+                }
+            ]
+        },{
+            "id":6,
+            "equipo1":"Dolphins",
+            "equipo2":"Jets",
+            "fecha":"08/01/2023",
+            "horario":
+            [
+                {
+                    "resto":"la vicenta",
+                    "horas":[
+                        ["cancun","13:00"],
+                        ["tezontle","12:00"],
+                        ["toreo","12:00"],
+                        ["vallejo","12:00"],
+                        ["acapulco","12:00"]
 
                     ]
                 },
                 {
-                    "resto":"Porfirios",
+                    "resto":"cao",
                     "horas":[
-                        ["masaryk","02:00 pm"],
-                        ["cancun","02:00 pm"],
-                        ["tulum","02:00 pm"],
-                        ["playa del carmen","02:00 pm"],
-                        ["coapa","02:00 pm"],
-                        ["toreo","02:00 pm"],
-                        ["merida","02:00 pm"],
-                        ["vallarta","02:00 pm"],
-                        ["tulum","02:00 pm"]
+                        ["cancun","13:00"]
+
+                    ]
+                }
+            ]
+        },{
+            "id":7,
+            "equipo1":"Falcons",
+            "equipo2":"Buccaneers",
+            "fecha":"08/01/2023",
+            "horario":
+            [
+                {
+                    "resto":"la vicenta",
+                    "horas":[
+                        ["cancun","13:00"],
+                        ["tezontle","12:00"],
+                        ["toreo","12:00"],
+                        ["vallejo","12:00"],
+                        ["acapulco","12:00"]
+
+                    ]
+                },
+                {
+                    "resto":"cao",
+                    "horas":[
+                        ["cancun","13:00"]
+
+                    ]
+                }
+            ]
+        },{
+            "id":8,
+            "equipo1":"Saints",
+            "equipo2":"Panthers",
+            "fecha":"08/01/2023",
+            "horario":
+            [
+                {
+                    "resto":"la vicenta",
+                    "horas":[
+                        ["cancun","13:00"],
+                        ["tezontle","12:00"],
+                        ["toreo","12:00"],
+                        ["vallejo","12:00"],
+                        ["acapulco","12:00"]
+
+                    ]
+                },
+                {
+                    "resto":"cao",
+                    "horas":[
+                        ["cancun","13:00"]
+
+                    ]
+                }
+            ]
+        },{
+            "id":9,
+            "equipo1":"Colts",
+            "equipo2":"Texans",
+            "fecha":"08/01/2023",
+            "horario":
+            [
+                {
+                    "resto":"la vicenta",
+                    "horas":[
+                        ["cancun","13:00"],
+                        ["tezontle","12:00"],
+                        ["toreo","12:00"],
+                        ["vallejo","12:00"],
+                        ["acapulco","12:00"]
+
+                    ]
+                },
+                {
+                    "resto":"cao",
+                    "horas":[
+                        ["cancun","13:00"]
+
+                    ]
+                }
+            ]
+        },{
+            "id":10,
+            "equipo1":"49ers",
+            "equipo2":"Cardinals",
+            "fecha":"08/01/2023",
+            "horario":
+            [
+                {
+                    "resto":"la vicenta",
+                    "horas":[
+                        ["cancun","16:25"],
+                        ["tezontle","15:25"],
+                        ["toreo","15:25"],
+                        ["vallejo","15:25"],
+                        ["acapulco","15:25"]
+
+                    ]
+                },
+                {
+                    "resto":"cao",
+                    "horas":[
+                        ["cancun","16:25"]
+
+                    ]
+                }
+            ]
+        },{
+            "id":11,
+            "equipo1":"Washington",
+            "equipo2":"Cowboys",
+            "fecha":"08/01/2023",
+            "horario":
+            [
+                {
+                    "resto":"la vicenta",
+                    "horas":[
+                        ["cancun","16:25"],
+                        ["tezontle","15:25"],
+                        ["toreo","15:25"],
+                        ["vallejo","15:25"],
+                        ["acapulco","15:25"]
+
+                    ]
+                },
+                {
+                    "resto":"cao",
+                    "horas":[
+                        ["cancun","16:25"]
+
+                    ]
+                }
+            ]
+        },{
+            "id":12,
+            "equipo1":"Seahawks",
+            "equipo2":"Rams",
+            "fecha":"08/01/2023",
+            "horario":
+            [
+                {
+                    "resto":"la vicenta",
+                    "horas":[
+                        ["cancun","16:25"],
+                        ["tezontle","15:25"],
+                        ["toreo","15:25"],
+                        ["vallejo","15:25"],
+                        ["acapulco","15:25"]
+
+                    ]
+                },{
+                    "resto":"porfirios",
+                    "horas":[
+                        ["cancun","16:25"],
+                        ["playa del carmen","16:25"],
+                        ["tulum","16:25"],
+                        ["masaryk","15:25"],
+                        ["coapa","15:25"],
+                        ["toreo","15:25"],
+                        ["merida","15:25"],
+                        ["vallarta","15:25"]
+                    ]
+                },
+                {
+                    "resto":"cao",
+                    "horas":[
+                        ["cancun","16:25"]
+
+                    ]
+                },
+                {
+                    "resto":"Sr Frogs",
+                    "horas":[
+                        ["cancun","16:25"],
+                        ["playa del carmen","16:25"],
+
+                    ]
+                },
+                {
+                    "resto":"Freds",
+                    "horas":[
+                        ["cancun","16:25"]
+
+                    ]
+                }
+            ]
+        },{
+            "id":13,
+            "equipo1":"Eagles",
+            "equipo2":"Giants",
+            "fecha":"08/01/2023",
+            "horario":
+            [
+                {
+                    "resto":"la vicenta",
+                    "horas":[
+                        ["cancun","16:25"],
+                        ["tezontle","15:25"],
+                        ["toreo","15:25"],
+                        ["vallejo","15:25"],
+                        ["acapulco","15:25"]
+
+                    ]
+                },
+                {
+                    "resto":"cao",
+                    "horas":[
+                        ["cancun","16:25"]
+
+                    ]
+                }
+            ]
+        },{
+            "id":14,
+            "equipo1":"Broncos",
+            "equipo2":"Chargers",
+            "fecha":"08/01/2023",
+            "horario":
+            [
+                {
+                    "resto":"la vicenta",
+                    "horas":[
+                        ["cancun","16:25"],
+                        ["tezontle","15:25"],
+                        ["toreo","15:25"],
+                        ["vallejo","15:25"],
+                        ["acapulco","15:25"]
+
+                    ]
+                },
+                {
+                    "resto":"cao",
+                    "horas":[
+                        ["cancun","16:25"]
 
                     ]
                 }
